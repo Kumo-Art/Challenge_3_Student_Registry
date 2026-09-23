@@ -31,4 +31,19 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registr
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.pdb
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\ref\Challenge_3_Student_Registry.dll
+<<<<<<< HEAD
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.sourcelink.json
+=======
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.csproj.AssemblyReference.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\refint\Challenge_3_Student_Registry.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.pdb
+>>>>>>> 68f875016655f1f35b17c8257f9a00cadf7fa9ff
