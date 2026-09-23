@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj": {}
+    "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj": {
+    "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj",
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj",
         "projectName": "Challenge_3_Student_Registry",
-        "projectPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj",
-        "packagesPath": "C:\\Users\\sirpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Repositories\\Challenge_3_Student_Registry\\obj\\",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge_3_Student_Registry\\Challenge_3_Student_Registry.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Challenge_3_Student_Registry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sirpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
