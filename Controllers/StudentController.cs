@@ -45,9 +45,17 @@ namespace Challenge_3_Student_Registry.Controllers
 
             [HttpGet("studentemail/{id}")]
 
-           public ActionResult<StudentInfo> GetByEmail(int id)
+           public ActionResult<StudentInfo> GetEmailById(int id)
            {
-            
+
+           StudentInfo student = School.FirstOrDefault(s => s.Id == id);
+
+            if(student == null)
+            {
+                return NotFound($"Student {id} email not found");
+            }
+
+            return Ok(student.Email);
         }
             
         

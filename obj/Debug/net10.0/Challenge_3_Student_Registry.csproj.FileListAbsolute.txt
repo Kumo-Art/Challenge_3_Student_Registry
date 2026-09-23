@@ -31,3 +31,4 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registr
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.pdb
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\ref\Challenge_3_Student_Registry.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Challenge_3_Student_Registry\obj\Debug\net10.0\Challenge_3_Student_Registry.sourcelink.json
